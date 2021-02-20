@@ -1,0 +1,934 @@
+head	1.1;
+access;
+symbols;
+locks
+	dmg:1.1; strict;
+comment	@% @;
+
+
+1.1
+date	97.06.25.19.30.54;	author dmg;	state Exp;
+branches;
+next	;
+
+
+desc
+@Original 1.0
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@% $Id$
+
+\documentstyle[10pt,fullpage,isolatin1,html,array]{article}
+\title{Flavouring the World. The FAQ about Spices}
+
+\author{Daniel M. Germ\'{a}n\\Dept. of Computer Science\\University of
+  Waterloo\\ Waterloo Ont. N2L 3G1\\ 
+  dmg@@csg.uwaterloo.ca\\http://csgwww.uwaterloo.ca/\~{ }dmg/}
+
+\begin{document}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\textfraction}{0.02}
+
+\bibliographystyle{ieeetr}
+
+
+{\Large Frequently Asked Questions about Spices Ver. 1.0 (Jan. 16, 1995.)}
+
+Last additions:
+
+\begin{itemize}
+\item Difference between oleoresins and essential oils.
+\end{itemize}
+
+
+
+%% Version 0.25 Dic. 9, 1995
+%%\begin{abstract}
+%%  Frequently Ask Questions about Spices (Draft Ver. 0.25) 
+%%  \begin{itemize}
+%%  \item A table of contents has been included.
+%%  \item Scannings of Vanilla, pepper, whitepepper, cinnamon were added.
+%%  \item The hypertext version has been divided by sections
+%%  \end{itemize}
+%%\end{abstract}
+%%
+%% Version 0.2 Dic. 5, 1995
+%%%\begin{titlepage}
+%%%  \thispagestyle{empty}
+%%  \maketitle
+%%  \begin{abstract}
+%%    Frequently Ask Questions about Spices (Draft Ver. 0.2) 
+%%    \begin{itemize}
+%%    \item Major rewriting. Many typos, misspellings, and wrongly written paragraphs were
+%%      amended.
+%%    \item A new section on coconut milk.
+%%    \item Some answers regarding vanilla were rephrased to avoid
+%%      confusions.
+%%    \item Added some entries in uses of spices.
+%%    \end{itemize}
+%%  \end{abstract}
+%%%\end{titlepage}
+%%
+%%% Version 0.1, 28 Nov. 95
+\tableofcontents
+
+
+\section{Introduction}
+This FAQ describes basic facts about spices: their nature, storage,
+and use.
+
+%%This is a FAQ draft and it will be posted weekly to
+%%rec.food.cooking until it becomes an official USENET FAQ.
+
+This FAQ is posted montly to the following newsgroups:
+rec.food.cooking, rec.food.veg, rec.food.preserving, rec.answers, and
+news.answers.
+
+This FAQ is (C) Copyright 1995 Daniel M. Germán. This text, in whole
+or in part, may not be sold in any medium, including, but not limited
+to electronic, CD-ROM, or published in print, without the explicit,
+written permission of Daniel M. Germán. This FAQ can be reproduced and
+distributed electronically or in hardcopy as long as this is done for
+free and it is kept intact.
+
+If you have any comments about this document, please direct them to
+{\sl dmg@@csg.uwaterloo.ca}.
+
+The hypertext version of this FAQ is available at:
+
+\begin{quote}
+\htmladdnormallink{http://csgwww.uwaterloo.cahttp://csgwww.uwaterloo.ca/~dmg/faqs/spices/}
+  {http://csgwww.uwaterloo.ca/\~{ }dmg/faqs/spices/}
+\end{quote}
+
+\section{Spices}
+
+
+\subsection{What are spices}
+
+Spices are the various strongly flavoured or aromatic substances of
+vegetable origin, commonly used as condiments or employed for other
+purposes on account of their fragance and preservation qualities
+\cite{oed}.
+
+\subsection{Why are spices so tasty?}
+Spices have two main components \cite{Pruthi}:
+
+\begin{itemize}
+\item Volatile oils. Also known as essential oils, they are
+  responsible for the characteristic aroma of spices. 
+\item Oleoresins, or non volatile extracts, which are responsible for
+  the typical taste and flavour.
+\end{itemize}
+
+\subsection{What is the difference between essential oils and oleoresins?}
+
+By David Soknacki, from Econ Manufacturing:
+
+\begin{quote}
+  \emph{ ``Essential oils are generally produced by injecting the
+    spice bed with steam, and then separating the distillate into the
+    essential oil and water. On the other hand oleoresins are produced
+    by soaking spices in a solvent, whether a combination of ethanol
+    and water in your example for vanilla, or hexane in the case of
+    many of our spices. One of the final stages in processing is to
+    remove the solvent to acceptable levels (35%
+    ethanol for vanilla, but under 25ppm for hexane in spices). What
+    is left are all of the flavour components dissolved by the
+    solvent.  Companies decide between essential oils and oleoresins
+    usually depending on the flavour profile they require for their
+    finished product.''  }
+\end{quote}
+
+
+\subsection{Names of Spices}
+
+The following table summarizes the common and scientific names of
+most popular spices and the part of the plant they come from.
+
+%\begin{table*}[htbp]
+%  \begin{center}
+%    \leavevmode
+%\footnotesize
+\begin{tabular}{|l| >{\em} l|l|}
+\hline
+\textbf{Common Name} & \textbf{Scientific Name} & \textbf{Part of the plant}\\
+\hline\hline
+Allspice &  Pimenta dioca & Berries \\
+Anise & Pimpinella aisum & Seed \\
+Annato & Bixa orellana &  Seeds \\
+Basil & Ocimum basilicum &  Leaves \\
+Bay &  Laurus nobilis & Leaves \\
+Caraway & Carum carvi & Seeds \\
+Cardamon & Elettaria cardamomum & Seeds \\
+Celery & Apium graveolens &  Seeds \\
+Cayenne & Capsicum annuum &  Podlike berries \\
+Chia & Salvia columbariae & Seeds \\
+Chile Pepper & Capsiums & Berries \\
+Cassia & Cinnamomum cassia & Bark \\
+Chives & Allium schoenoprasum & Leaves \\
+Chocolate & Theobroma cacao &  Seeds \\
+Cinnamon & Cinnamomum zeylanicum & Bark \\
+cloves & Syzygium aromaticum & Flower buds \\
+Coffee & Coffea arabica & Seeds \\
+Coriander & Coriandrum sativum & Seeds \\
+Cumin &  Cuminum cyminum &  Seeds \\
+Dill &  Anethum graveolens & Leaves seeds \\
+Fennel &  Foeniculum vulgare & Seeds \\
+Fenugreek & Trigonella foenumgraecum \\
+Garlic & Allium sativum & Bulb \\
+Ginger & Zaingiber offinale & Rhizomes \\
+Horseradish & Armoracia rusticana & Roots \\
+Mace & Myristica fragrans & Seed coverings (arils) \\
+Marjoram & Sweet marjoram & Leaves \\
+Mint & Mentha species & Seeds \\
+Nutmeg & Myristica fragrans & Peeled seeds \\
+Onion & Allium cepa & Bulbs \\
+Oregano & Origanum vulgare & Leaves \\
+Paprika & Capsicum annuum & Fruit pods \\
+Parsley & Petroselinum crispum & Leaves \\
+Pepper & Piper nigrum & Buds \\
+Pimiento & Capsicum annuum & Fruits \\
+Poppy seed & Papaver somniferum & Seeds \\
+Rosemary & Rosmarinus officialis & Leaves or flowers \\
+Safflower & Carthamus tinctorius & Flowers \\
+Saffron & crocus sativus & Flowers stigmas \\
+Sage & salvia species & Leaves \\
+Savory & Satureja species & Leaves \\
+Sesame & Sesamum indicum & Seeds \\
+Shallot & Allium cepa & Bulbs \\
+Star Anise & Illicium verum & Unripe fruits \\
+Tarragon & Artemisia dracunculus & Leaves \\
+Thyme & Thymus species & Leaves \\
+Turmeric & Curcuma domestica & Rhizomes \\
+Vainilla & Vanilla planifolia & Seed pods \\
+\hline
+\end{tabular}
+%    \caption{Common and Scientific Name of Spices}
+%    \label{tab:names}
+%  \end{center}
+%\end{table*}
+
+
+\subsection{What are some uses of spices (excluding the kitchen)}
+
+Some examples on the use of spices:
+
+\begin{itemize}
+\item Antioxygenic properties. Some spices retard the oxydation of
+  fat.
+\item Preserving action. 
+  Some spices contain essential oils that are toxic to microorganisms \cite{Pruthi}:
+  \begin{itemize}
+  \item Cloves contain plenty of essential oil (15 to 20\%); its main
+    component --eugenol, 80 to 92\%-- inhibits the growth of
+    microorganisms. 
+  \item At normal growth temperatures, the mustard's essential oil is
+    toxic to microorganism.
+  \end{itemize}
+\item Antimicrobial activity. 
+   Black pepper, garlic,  cinnamon, nutmeg,
+  cloves, ginger, cumin, and caraway amongst others, are used in
+  India for correcting and a variety of intestinal disorders
+  \cite{Pruthi}. \\
+  In a study, Subrahmanyan, et.al \cite{Subra} reported the
+  susceptibilities of \textsl{E. coli} to garlic: at a concentration
+  of 20 mg/ml of garlic, the number of organisms per ml. were 17,
+  22, and 300 after 0, 6, and 24 hrs. respectively; for the same
+  periods, at a concentration of 0 mg/ml, the results were: 17, 3600,
+  and 16800.
+%\item Physilogical and medical effects.
+%  \begin{itemize}
+%  \item Stimulation of salivary flow and amylasis (the promotion of
+%    the growth of amylase --any of the enzymes (as amylopsin) that
+%    accelerate the hydrolysis of starch and glycogen or their
+%    intermediate hydrolysis products). Some spices, when added to food,
+%    promote increased, salivation compared to unspiced food. Citric
+%    acid, acetic acid, and tartaric acid are the best promoters,
+%    followed by the biting spices --capsicums (chili), ginger,
+%    pepper \cite{Pruthi}.
+%%  \item Stimulation of gastric secretion.  It is debatable whether
+%    pations with peptic ulcer should avoid spices. Several studies
+%    show that it promotes gastric secretion
+%  \end{itemize}
+\item Perfumery and cosmetics. 
+  \begin{itemize}
+  \item Oils from cardamon, cumin, celery, chive, juniper, and nutmeg
+    are used in different types of perfume \cite{Pruthi}.
+  \item The oil of cinnamon, dill seed, fennel seed, and nutmeg are
+    used in scenting soaps, dental preparations, hair lotions, and
+    others \cite{Pruthi}.
+  \end{itemize}
+\end{itemize}
+
+\section{Pepper}
+
+\begin{rawhtml}
+  <img src="http://csgwww.uwaterloo.ca/~dmg/faqs/spices/gifs/pepper_16.gif"><p>
+\end{rawhtml}
+
+
+\subsection{What is black pepper?}
+
+Black pepper is the whole dried immature fruit of the {\em Piper
+  nigrum}.
+
+\subsection{Where is pepper native from?}
+
+It is native of the Western Ghats in India, where it is still
+restricted as a wild plant. Nowadays, it can also be found growing
+wild in north Burma and the hills of Assam.
+
+\subsection{Where the name pepper comes from}
+
+It is believed that the name comes from the Sanskrit {\em pippali},
+which was the name of the long pepper, {\em P. longum}, which is
+now never seen in Europe.
+
+
+\subsection{What is green pepper?}
+
+It is unripe, but fully developed, pepper which is artificially dried
+or preserved in ``wet'' form, e.g. brine, vinegar, citric acid.
+
+\subsection{What is white pepper?}
+
+\begin{rawhtml}
+  <img src="http://csgwww.uwaterloo.ca/~dmg/faqs/spices/gifs/whipepc_16.gif"><p>
+\end{rawhtml}
+
+According to Pruthi \cite{Pruthi}, there are several methods to prepare it:
+
+\begin{enumerate}
+\item Water steeping and rotting technique
+  \begin{itemize}
+  \item From ripening fresh berries. It is the oldest method. Fresh
+    berries are harvested when one or two berries start turning yellow
+    or red. There are submerged for several days, at the eleventh the
+    skin is removed by hand or mechanical methods. The berries
+    --without skin-- are washed and immerse in a bleaching solution.
+    After 2 days, then they are washed and dried.
+  \item From dried berries. Pepper berries are dried for 7 to 10 days,
+    then submerged for one or two weeks. Again they are washed,
+    bleached, washed and dried.
+  \end{itemize}
+\item Steaming. Ripening green berries are steamed for 10 to 15
+  minutes, then a machine removes the skin. Also, the berries are
+  treated with a bleaching solution, then washed and dried.
+%\item Chemical technique. Joshi patented the following method:
+%  \begin{enumerate}
+%  \item dried black berries are immerse in five times its weight of
+%    water for 4 days
+%  \item treated with 4\% NaOH solution and boiling the mixture
+%  \item removing the skins by stirring at 1600 r.p.m.
+%  \item bleaching with $H_2O_2$
+%  \item drying the berries at 125 F.
+%  \end{enumerate}
+\item Decortication technique (also known as \textsl{decorticated
+    pepper}) . Created by decortication machines that remove the skin
+  of the dried black peppercorns. 
+\end{enumerate}
+
+
+\subsection{What is pink pepper?}
+
+Pink pepper is the berry from the Schinus terebinthifolius, a South
+American tree. They are midly toxic. \cite{Mulherin}
+
+%%No.  Green peppercorns are indeed real, underripe peppercorns, piper
+%%nigrum, which are preserved as Daniel describes above.  And the
+%%pink "peppercorns" that are used in "gourmet" cooking are not
+%%true peppercorns, BUT the ones that are used in cooking are perfectly
+%%safe, FDA-approved, and are dried berries from the Baies rose
+%%plant.  The pink berries of the "ornamental pepper tree" can
+%%apparently cause severe allergic reactions, as you said; but
+%%these are NOT the pink peppercorns that one finds in food stores
+%%or "gourmet peppercorn blends".
+
+
+%-- 
+%Dan Masi
+%Mentor Graphics Corp.
+%dan_masi@@mentorg.com
+
+\subsection{Are there any differences between white and black pepper?}
+
+
+The only significant difference between white and black pepper is in
+starch and fiber content. {\em The belief that white pepper is milder
+  in flavour than black pepper does not seem to be confirmed by the
+  scientific data\/} \cite{Pruthi}. However, there are some
+differences in pungency --of black and white pepper-- due to
+geographical origin.
+
+\subsection{Storage}
+
+Pepper can be washed and re-dried before grinding. Store away from
+sunlight at moderate temperatures and low humidity. Only ground
+pepper needs to be stored in sealed containers.
+
+Pepper loses more volatile oils the finer it is ground.
+
+
+\section{Cinnamon}
+
+\begin{rawhtml}
+  <img src="http://csgwww.uwaterloo.ca/~dmg/faqs/spices/gifs/cinna_16.gif"><p>
+  <img src="http://csgwww.uwaterloo.ca/~dmg/faqs/spices/gifs/canela_16.gif"><p>
+\end{rawhtml}
+
+
+
+Dried bark of {\em Cinnamomum verum} (syn. {\em C. zeylanicm}).
+
+\subsection{Where does Cinnamon come from?}
+It is indigenous in Sri Lanka, which still produces the largest
+quantity and best quality. Seychelles is the second largest producer.
+
+\section{Vanilla}
+\begin{rawhtml}
+  <img src="http://csgwww.uwaterloo.ca/~dmg/faqs/spices/gifs/vanilla_16.gif"><p>
+\end{rawhtml}
+
+Vanilla is the fully grown fruit of the orchid {\em Vanilla
+  fragrans\/} %and {\em Vanilla planifolia\/}
+harvested before it is fully ripe; then it is fermented and cured. The
+fruits are usually referred to as vanilla beans \cite{Purseglove-2}.
+Vanilla production is regulated by ISO standard 5565.
+
+\subsection{Where does Vanilla come from?}
+Vanilla is native to Mexico, Guatemala and other parts of Central
+America. At the present time, it grows also in Madagascar, the
+Seychelles, Tahiti, Réunion and other tropical areas\cite{Mulherin}.
+The first recorded use of the spice in European literature dates back
+to 1520, when Moctezuma II offered vanilla flavoured chocolate to
+Hernán Cortés. However, the use of {\em tlilxochitl\/} (Nahuatl for
+vanilla) is earlier documented in the precolumbian literature.
+
+\subsection{What is Vanillin?}
+Vanillin is a crystalline phenolic aldehyde $C_8H_8O_3$ that is the
+chief fragrant component of vanilla and is used especially in flavouring and
+in perfumery \cite{Webster}.
+
+Vanillin can now be produced synthetically, and it is much cheaper
+than natural vanilla.
+
+\subsection{Products}
+
+\subsubsection{What is Vanilla Extract?}
+\label{vanilla-extract}
+Vanilla extract is obtained by macerating the cured beans in a
+solution of water and alcohol. It might contain sugar or glycerine as
+sweeteners or thickeners \cite{Purseglove-2}.
+
+Conventional vanilla extracts have a minimum ethanol content of 35\%,
+and contain the soluble extractives from 1 part by weight of vanilla
+beans in 10 parts by volume of hydroalcoholic solution.
+\cite{Purseglove-2}.
+
+\subsubsection{How do I differentiate between real and unreal vanilla
+  extract?}
+
+``The two best indicators of pure vanilla extract are alcohol content
+and price.  The alcohol content must be at least 35\%; synthetics
+usually have no alcohol or at most, about 2\%. Any purchases that cost
+less than US\$25.00 a quart are most likely
+synthetic.''\cite{patricia-rain}
+
+
+\subsubsection{What is vanilla flavouring?}
+\label{vanilla-flavouring}
+It is similar to vanilla extract (see \ref{vanilla-extract}) but
+contains less than 35\% of ethanol per volume.
+
+\subsubsection{What is vanilla tincture?}
+It is used exclusively in pharmaceutical applications. It is prepared
+by maceration from 1 part of vanilla beans by weight to 10 parts of
+hydroalcoholic solution and contains added sugar. It differs from
+vanilla extract (see \ref{vanilla-extract}) by having at least a 38\%
+ethanol content.
+
+\subsubsection{What is concentrated vanilla extract and concentrated vanilla
+  flavouring?} 
+They are prepared by removing the solvent from their
+regular counterparts (see \ref{vanilla-extract},
+\ref{vanilla-flavouring}).
+
+\subsubsection{What is Vanilla Oleoresin?}
+It is a semi-solid concentrate obtained by removing the solvent from
+the vanilla extract. A solution of isopropanol is frequently used
+instead of ethanol for the maceration. Vanilla oleoresin has lost 
+part of its aroma --hence its flavour-- during the removal of the
+solvent.
+
+\subsubsection{What is Vanilla Powder?}
+\label{vanilla-powder}
+Powdered vanilla beans. It might be pure, but normally it is
+adulterated with vanilla oleoresin, sugar, food starch, or gum acacia.
+
+\subsubsection{What is Vanilla-Vanillin Extract Flavouring and Powder?}
+A combination of synthetic vanillin and vanilla oleoresin to create
+extract and flavouring (see \ref{vanilla-extract},
+\ref{vanilla-flavouring}, \ref{vanilla-powder}).
+
+\subsubsection{What is Perfumery Vanilla Tincture?}
+Similar to vanilla extract (see \ref{vanilla-extract}) but prepared
+with perfumery alcohol, with near 90\% ethanol content. It is not
+intended for consumption.
+
+\subsubsection{What is Vanilla Absolute?}
+It is the most concentrated form of vanilla. ``It is 7-13 times stronger
+than good-quality vanilla beans but it has less well-rounded
+character'' \cite{Purseglove-2}.
+
+\subsection{Major types of Vanilla}
+
+\subsubsection{What are vanilla splits?}
+Whole bean that burst open during fermentation, and are frosted with
+vanillin crystals \cite{Andy}.
+
+\subsubsection{What are vanilla cuts?}
+Beans that have been cut into pieces to accelerate the curing
+process. This category might include small beans.
+
+\subsubsection{What is Mexican Vanilla?}
+%``Mexico has been regarded has the supplier of the vanilla with the
+%finest aroma and flavour'' \cite{Purseglove-2} (please notice that it . 
+It is supplied in 5 grades (or 7 if intermediate grades are included)
+of whole beans and in the form of cuts. The top grades of Mexican
+beans are rarely ``frosted'' with a surface coating of naturally
+exuded vanillin.\cite{Purseglove-2}
+
+\subsubsection{What is Bourbon vanilla?}
+``It has a deeper `body' flavour than Mexican vanilla, but less fine
+aroma'' \cite{Purseglove-2}. It is produced in Madagascar, the Comoro
+Islands and Réunion.
+
+\subsubsection{What is Indonesian vanilla?}
+The main source of Indonesian vanilla is Java. ``Java vanilla possesses
+a deep, full-bodied flavour and is frequently used for blending with
+synthetic vanillin'' \cite{Purseglove-2}
+
+\subsubsection{What is South American or West Indian Vanilla?}
+More similar in properties to Bourbon than to Mexican vanilla.
+
+\subsubsection{What is Tahiti vanilla?}
+It is obtained from {\em V. tahitensis\/} and ``possesses a
+characteristic aromatic odour and usually has a lower vanillin content
+than true vanilla.'' \cite{Purseglove-2}. It generally has less
+flavour than true vanilla.
+
+\subsubsection{What is Vanillons (Guadeloupe vanilla or Antilles vanilla)?}
+It is obtained from {\em V. pompona\/}. ``Vanillons has a low vanillin
+content and possesses a characteristic floral aroma, bearing
+similarities to Tahiti vanilla'' \cite{Purseglove-2}. It has a poor
+flavour and it is normally used in perfumery.
+
+
+
+\subsubsection{Is it safe to buy Mexican vanilla?}
+
+
+Mexican vanilla has one of the finest aromas, however, most of the
+vanilla extract sold in Mexico is artificial. In México there is almost a
+complete lack of enforcement of labeling laws for vanilla.
+Furthermore, nowhere in the world you can expect to buy a liter of
+real vanilla extract for a couple of dollars. As a good example of
+this kind of problems, I have seen turmeric being sold as saffron in a
+well known supermarket. So don't be cheap: if you want good vanilla,
+pay the price of getting it from a reliable source; if you care for
+price, use artificial vanilla.
+
+%In article <db0_9601230900@@salata.com>,
+%Joel Ehrlich <Joel.Ehrlich@@salata.com> wrote:
+%>
+%>
+%>The fact is that one source of artificial vanilla is a byproduct from
+%>the conversion of woodpulp to paper. That is not, in and of itself,
+%>dangerous. Some artificial vanilla is quite safe. Some is most decidedly
+%>unsafe.
+%>
+%>What is dangerous is the complete lack of enforcement of any labelling
+%>laws for vanilla in Mexico. You can call anything you want any thing you
+%>wish. You can include anything in the bottle and label it or not as you
+%>choose. And you can make any claims you wish on the bottle label.
+%>
+%>It isn't that there are no statutes regulating labelling in Mexico, it's
+%>simply that there is no effort made to enforce them (other than on
+%>bottled water).
+%>
+%>Now then, if were in Mexico and you held a bottle labelled "Pure
+%>Vanilla" and you knew that there is very little real vanilla available
+%>in Mexico and that which is available is very, very, very expensive,
+%>would you buy that 1 liter bottle for less than $5.00? Especially
+%>knowing that there is no effort made to assure that what is on the label
+%>is what is in the bottle?
+%>
+%>Joel
+
+
+\subsection{For the do-it-yourselfer}
+
+\subsubsection{How do I prepare Vanilla Extract?}
+
+Juan San Mames shared the following recipe \cite{sanmames}:
+
+\begin{quote}
+  {\em
+Use one vanilla bean for every 120 ml.  of any clear liquor (vodka 
+preferably). With a knife, split the bean open  (always put your 
+finger behind the knife). If the bean is hard, just break it into pieces. 
+Then  put the bean in the liquor.  
+
+Close the bottle and leave it for about two weeks or until the vanilla
+bean aroma begins to come through. 
+
+When you use the extract, if you don't want the vanilla seeds to show  
+with the ingredients, use a coffee filter. You can return the 
+seeds to the bottle.  If you make ice cream, you may want to show the 
+seeds in the finished ice cream.}
+
+\end{quote}
+
+Bruce Steinberg added \cite{bruce}:
+
+\begin{quote}
+{\em
+You can shake the bottle several times a week to accelerate the
+extraction. Brandy may also be used for interesting variations.}
+\end{quote}
+
+According to US regulations, 1 l. of vanilla extract must contain a
+minimum of 100 gr. of vanilla beans (I reckon that each
+  regular size complete bean must weight between 3 and 5 gr.) of no
+more or 25\% moisture content. Commercial extracts also include sugar
+and glycerine, to help to ``fix'' the aroma \cite{Purseglove-2}.
+
+\subsubsection{How do I prepare vanilla sugar?}
+Store 1 or 2 vanilla beans on an air-tight jar of granulated
+sugar. Allow one month for the flavour to permeate. If the beans are
+always topped with sugar, the beans last for years. Use this sugar in
+sweet dishes.\cite{Mulherin}
+
+Storage temperature can be raised to 15-21 Celsius without detriment to
+the flavour quality of the beans.\cite{Purseglove-2}
+
+\subsubsection{How do I store my cured vanilla beans?}
+Vanilla beans should be stored in open containers at a temperature of
+about 10 C at a low humidity \cite{merory-56}
+
+\subsubsection{How do I use vanilla in my kitchen?}
+Use vanilla sugar to give a nice flavour to your drinks. It also
+enhances the flavour of chocolate \cite{Mulherin}.
+
+Almost any sweet dish will improve its flavour with a touch of vanilla
+extract.
+
+\subsection{Further information}
+An excellent treatment of the topic can be found at
+\cite{Purseglove-2}. 
+
+The \emph{``Vanilla Cookbook''} by Patricia Rain is a complete book
+from a more practical point of view. This book is out of print and 
+a new edition is being written.
+
+\begin{quote}
+Patricia Rain's {\em "The Vanilla Cookbook"\/} covers the use of
+vanilla from basic extracts through liqueurs, desserts,
+souffles, and baking of all kinds, to full-tilt savoury recipes such
+as "Seafood-Pecan Salad with Vanilla Mayonnaise", "Rice with Coconut,
+Vanilla, Dates, and Lemon" and "Fresh Tuna Grenobleoise with
+Vanilla". \cite{bruce}.
+\end{quote}
+
+The Patricia Rain's {\em Vanilla Information Hotline\/} is available
+at
+%408/457-0902
+(408) 476-9111 --fax (408) 476-9112--
+%(or fax at 408/457-2521) 
+for any vanilla questions, to request a
+basic vanilla FAQ (by fax or snail mail), or to get further info on
+ordering Tahitian and Bourbon beans, extracts, or "The Vanilla
+Cookbook" itself.
+
+\section{Saffron}
+
+\subsection{What is saffron?}
+Saffron is the dried stigmas of the crocus sativus.  It is of orange
+color and has a strong perfume and a bitter taste.  Saffron production
+is regulated by ISO with standard 3632.
+
+%Spain is one of the biggest growers of saffron in the world. Spanish
+%saffron is divided into three categories: Mancha, Rio, Sierra-- Mancha
+%being the best.  There is a better quality called Coupe (Short), but
+%it is hard to find because of its limited production. Iran is also a
+%big producer, but because of the embargo its saffron is not available
+%in the US. Iranian #1 qualiti is usually all red, ant it looks like
+%little arrow heads. Again, it is illegal to import it.  Basically, all
+%saffrons are the same.  They all come from the Crocus Sativus, with
+%slight variations in the countries where they are grown.  The
+%selection of the saffron is what is most important.  The best Spanish
+%saffron is the one that shows the ISO-3632 norm on the label,.  ISO is
+%the International Standards Organization, based in Switzerland.  Spain
+%is one of the subscribers to this organization.
+
+\subsection{Why is saffron so expensive?}
+Every plant has on average 3 flowers; each flower only 3 stigmas.  It
+takes between 200,000 and 300,000 stigmas to make 1 kg. of saffron
+\cite{Mulherin}. Pure saffron, however, has a strong flavour and a
+pinch is sufficient for most dishes.
+
+%For instance, one ounce of
+%saffron will be sufficient to give aroma and flavour to 907/4 cups of
+%dry rice.%\cite{saffron-faq}
+
+Avoid buying powdered saffron, it might be adulterated.
+
+
+
+%Antes de utilizar el azafrán, envolvedlo en papel de aluminio y
+%calentadlo durante cinco minutos en una sartén, a fuego suave. A
+%continuación desleídlo en un poco, (muy poco), de agua templada y
+%dejadlo reposar diez minutillos antes de añadirlo a lo que estéis
+%cocinando.  Y si vuestro paladar es atrevido, probad a poner una hebra
+%de azafrán en el arroz con leche...  ¡Os sorprendera!.
+
+\subsection{Why should I not use wooden utensils to work with
+  saffron?}
+Wood has an absorbing property. Since saffron is expensive you don't
+want to waste it.
+
+\subsection{What is Mexican saffron?}
+Mexican saffron is the flower of {\em Carthamus tinctorius L. \/}
+which is an annual herb grown in the temperate regions of Central
+México. Its quality is quite inferior to real saffron but it has
+similar coloring properties. It is far cheaper.
+
+\subsection{How do I store saffron?}
+Saffron is sensitive to light and moisture. Keep it in a dark
+container away from sunlight. It will last for years.
+
+\subsection{Where is saffron native from?}
+
+It is believed that it is native of Asia Minor.
+
+
+\subsection{Further information}
+
+%%Patricia Rain's {\em "The Vanilla Cookbook"\/} covers the use of
+%%vanilla in everything from basic extracts through liqueurs, desserts,
+%%souffles, and baking of all kinds, to full-tilt savoury recipes such
+%%as "Seafood-Pecan Salad with Vanilla Mayonnaise," "Rice with Coconut,
+%%Vanilla, Dates, and Lemon" and "Fresh Tuna Grenobleoise with
+%%Vanilla" \cite{bruce}.
+
+\emph{Vanilla, Saffron Imports} prints a pamphlet called \emph{Cooking
+  and \& with Saffron}, they also have a WWW page (
+\htmladdnormallink{http://www.saffron.com/} {http://www.saffron.com/}
+) with some facts about saffron, including a photospectrometry report.
+They can be reached at {\em ``Vanilla Saffron Imports, 949 Valencia
+  Street, San Francisco, CA 94110''}.
+
+
+\section{What is coriander/cilantro/Chinese parsley?}
+Coriander is the common name for coriandrum sativum (fam.
+umbelliferae). It is an annual plant similar to parsley. It has
+erect, furrowed solid, branched stems. The alternate bright green
+leaves are pinnate or bipinnate, the lower ones are broader leaflets
+than the upper ones, which are finely divided.
+Coriander seeds are cream to brown spheres of 1-1.5 mm. in
+diameter. In the culinary argot, it is common to refer to the plant as
+cilantro and to the seeds as coriander.
+
+
+\subsection{Where does the name coriander comes from?}
+
+"There is uncertainty about the [source of the ]generic name,
+Coriandrum; it might be derived from the Greek word "koris" (= bug), a
+reference perhaps to the plant's smell and the apperance of the
+fruits.''  \cite{herbs}
+
+\subsection{Does cilantro taste to soap?}
+
+
+
+\subsection{How do I store fresh cilantro?}
+Different people have suggested different methods. Here is a list of
+the most common ones.
+
+\begin{itemize}
+\item ``bouquet'' in the fridge. Cover loosely with plastic. 
+\item ``bouquet'' in the window.
+\item ``airtight container'' in the fridge. 
+\item ``wrapping'' in damp towels, inside a plastic bag.
+\end{itemize}
+
+Sophie Laplante (sophie@@cs.uchicago.edu) performed some experiments
+on these different methods for storing cilantro. She found that the
+airtight container seemed to keep it {\em edible\/}[sic] for the
+longest time (3 weeks).
+
+
+\section{Other Spices}
+
+\subsection{Is there any substitute to coconut milk?}
+
+You can probably find coconut milk in an Asian store, either in liquid
+or powdered form. If you have no other choice, you can follow this
+recipe \cite{ashall}:
+
+\begin{quote}
+  {\em
+    \begin{itemize}
+    \item Take a handful of shredded coconut and pack it in the bottom of
+      a bowl.
+    \item Pour boiling (and I mean really boiling) water just to cover the packed
+      coconut and let stand until the water is cool.
+    \item  Strain the coconut shreds
+      and press them in the bottom of the strainer get as much liquid as possible.
+    \end{itemize}
+    The liquid is very close to coconut milk and will impart the flavor
+    very well.
+    }
+\end{quote}
+
+\section{Storing Spices}
+
+3 factors affect the quality of stored spices:
+
+\begin{itemize}
+\item Light. Spices containing color pigments (such as capsicums, saffron,
+  green cardamoms, turmeric) and chorophyll (dryed herbs) need
+  protection from light. For instance, the color of capsicums is mostly
+  due to carotenoids, which are photosensitive and oxidate in the
+  presence of light.
+\item Humidity. Since most spices are sold dry, they tend to attract water
+  and mold.
+\item Oxygen. The essential oil of spices oxydates in the presence of 
+  atmospheric oxygen, specially at high temperatures. However, most
+  whole spices are protected by a pericarp and their natural
+  antioxidants which they contain. 
+\end{itemize}
+
+%Different spices have different storage requirements. 
+
+Torricelli (cited in \cite{Pruthi}), studied
+the loss of essential oil in the following spices: anise, cardamon,
+coriander, fennel, cumin, sweet marjoram, mace, cloves, pepper,
+allspice, and cinnamon. When the spices where kept in small paper bags
+(containing 1 to 5g), in the dark for 5 years, they lost 47\% essential
+oil on the average. In case of powder spices, they lost an average of
+62\% and up to 90\%. The same spices, when kept, during six years in
+dark glass containers, lost 24\% of their essential oils on the
+average. When the containers were hermetic, and the spice filled the
+container, the loss was from 0 to 5\%, whether the spice was powdered
+or whole. 
+
+So keep your spices in dark, sealed containers. Fill each container
+completely. Put them in a fresh place (some people use the fridge, see~\ref{sec:storfridge}) and
+away from light.  And your spices will long enough (whatever that
+means to you).
+
+
+\subsection{Should I store my spices in the fridge?}
+\label{sec:storfridge}
+Some people store spices inside the fridge. The
+fridge keeps the spices in a dark, low temperature environment, hence
+protecting them from light and rapid oxidation. There is only one
+problem, whenever you open the spice container, humidity immediately
+condenses on the surface of the spice and the container, then you
+close the container and the moisture is kept captive. Humidity is a
+natural enemy of most dry spices.
+
+The fridge suits the bill if you do keep big containers there, from
+which you regularly fill small-daily use ones. Nonetheless, for the
+majority of the spices, it is more practical to buy small amounts of
+each spice every once in a while, which in effect, guarantees their
+freshness.
+
+Some people freeze small sealed envelopes, each one storing a
+``dose''. Therefore, they don't have the condensation problem.
+
+\subsection{Bay leaves}
+
+Bay leaves lose approximately 30\% of their volatile oil and 40-60\%
+of their chlorophyll during one year of storage.  A good way to
+evaluate the quality of the leaf is to determine how bright its color
+is.
+
+\subsection{Ground spices}
+Ground spices, with greater surface exposed, tend to lose their
+volatile oils. They also deteriorate faster than whole spices.
+
+The needs for packaging vary  from spice to spice. In general, follow
+the next guidelines:
+
+\begin{itemize}
+\item Use dark, air tight containers.
+\item Fill the container as much as you can.
+\item Avoid buying ground spices. Grind them yourself using a
+  mortar.
+\end{itemize}
+
+\section{Others}
+
+\subsection{Disclaimer}
+This FAQ is provided as is without any express or implied warranties.
+While every effort has been taken to ensure the accuracy of the
+information contained in this article, the maintainer assumes no
+responsibility for errors or omissions, or for damages resulting from
+the use of the information contained herein.
+
+
+\subsection{List of Contributors}
+
+\begin{itemize}
+
+\item Hall, Andrew S. $<$ashall@@magnus.acs.ohio-state.edu$>$, for his
+  recipe to prepare coconut milk.
+\item Laplante, Sophie $<$sophie@@cs.uchicago.edu$>$, for her
+  research on cilantro storage.
+\item Pforzheimer, Andy $<$apforz@@pfood.win.net$>$, for his
+  corrections regarding vanilla extract and vanilla splits.
+\item San Mames, Juan $<$VMPK89A@@prodigy.com$>$, for sharing his
+  knowledge regarding vanilla.
+\item Stafford, Maureen $<$stafford@@csg.uwaterloo.ca$>$, for
+  proofreading the first draft (version 0.1) of this document.
+\item Steinberg, Bruce $<$bruces\@@sco.com$>$, for his comments on how
+  to prepare vanilla extract.
+\end{itemize}
+
+\bibliography{spices}
+
+\end{document}
+%Local IspellParsing: latex-mode
+%LocalWords:  dmg,flavour,flavouring FAQ
+%Local IspellDict: english
+
+%Chinese five spices:gound star anise, fennel, cinnamon, cloves and Szechwan pepper
+
+% Capsicums
+% How do I tell whether a capsicum is hot? Taste it. Or stick to the
+%% mild varieties
+
+%The Whole Chile Pepper Book", Dewitt & Gerlach, Little Brown 1990
+%lists:  Habanero (Capisicum chinense)  "In Spanish, the word Habanero
+%means 'Havana-like,' or possibly 'from Havana,' . . . other . . .
+%names . . . are 'Scot's Bonnet' or 'Scotch Bonnet,' (commonly used in
+%the English-speaking Caribbean islands such as Jamaica) and 'Bahamian'
+%or 'Bahama Mama' in the Bahamas."  So now we can add `Jamaquino
+%Habanero'
+%   ...a rose by any other name...  :-)
+
+%I hadn't been familiar with these peppers, but I was lucky enough to
+%be invited to cook at a local New Haven CT chinese resteraunt on
+%occasion (a long story). The owner used to recieve shippments of these
+%peppers still on the bush. We handled them with 'kid gloves'
+%literally.
+@

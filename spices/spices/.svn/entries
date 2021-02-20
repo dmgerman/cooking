@@ -1,0 +1,674 @@
+8
+
+dir
+0
+svn+ssh://svn.dmg/Users/dmg/svn/conf/trunk/cooking/spices/spices
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+node9.html
+file
+
+
+
+add
+
+spices.html
+file
+
+
+
+add
+
+node10.html
+file
+
+
+
+add
+
+node30.html
+file
+
+
+
+add
+
+node22.html
+file
+
+
+
+add
+
+node14.html
+file
+
+
+
+add
+
+node50.html
+file
+
+
+
+add
+
+node42.html
+file
+
+
+
+add
+
+node70.html
+file
+
+
+
+add
+
+node34.html
+file
+
+
+
+add
+
+node62.html
+file
+
+
+
+add
+
+node26.html
+file
+
+
+
+add
+
+node54.html
+file
+
+
+
+add
+
+node18.html
+file
+
+
+
+add
+
+node46.html
+file
+
+
+
+add
+
+node38.html
+file
+
+
+
+add
+
+.IMG_PARAMS.pag
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+node66.html
+file
+
+
+
+add
+
+node58.html
+file
+
+
+
+add
+
+.IMG_PARAMS.dir
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+node2.html
+file
+
+
+
+add
+
+labels.pl
+file
+
+
+
+add
+
+node6.html
+file
+
+
+
+add
+
+images.pl
+file
+
+
+
+add
+
+.ORIG_MAP.pag
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.ORIG_MAP.dir
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+node11.html
+file
+
+
+
+add
+
+node31.html
+file
+
+
+
+add
+
+node23.html
+file
+
+
+
+add
+
+node51.html
+file
+
+
+
+add
+
+node15.html
+file
+
+
+
+add
+
+node43.html
+file
+
+
+
+add
+
+node71.html
+file
+
+
+
+add
+
+node35.html
+file
+
+
+
+add
+
+node63.html
+file
+
+
+
+add
+
+node27.html
+file
+
+
+
+add
+
+node55.html
+file
+
+
+
+add
+
+node19.html
+file
+
+
+
+add
+
+images.bbl
+file
+
+
+
+add
+
+node47.html
+file
+
+
+
+add
+
+images.tex
+file
+
+
+
+add
+
+node39.html
+file
+
+
+
+add
+
+node67.html
+file
+
+
+
+add
+
+node59.html
+file
+
+
+
+add
+
+node3.html
+file
+
+
+
+add
+
+node7.html
+file
+
+
+
+add
+
+node20.html
+file
+
+
+
+add
+
+node12.html
+file
+
+
+
+add
+
+node40.html
+file
+
+
+
+add
+
+node32.html
+file
+
+
+
+add
+
+node60.html
+file
+
+
+
+add
+
+node24.html
+file
+
+
+
+add
+
+node16.html
+file
+
+
+
+add
+
+node52.html
+file
+
+
+
+add
+
+node44.html
+file
+
+
+
+add
+
+node36.html
+file
+
+
+
+add
+
+node64.html
+file
+
+
+
+add
+
+node28.html
+file
+
+
+
+add
+
+node56.html
+file
+
+
+
+add
+
+node48.html
+file
+
+
+
+add
+
+node68.html
+file
+
+
+
+add
+
+img1.old
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+img2.old
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+node4.html
+file
+
+
+
+add
+
+.ID_MAP.pag
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+node8.html
+file
+
+
+
+add
+
+.ID_MAP.dir
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+images.log
+file
+
+
+
+add
+
+node21.html
+file
+
+
+
+add
+
+node13.html
+file
+
+
+
+add
+
+node41.html
+file
+
+
+
+add
+
+node33.html
+file
+
+
+
+add
+
+node25.html
+file
+
+
+
+add
+
+node61.html
+file
+
+
+
+add
+
+node53.html
+file
+
+
+
+add
+
+node17.html
+file
+
+
+
+add
+
+node45.html
+file
+
+
+
+add
+
+images.aux
+file
+
+
+
+add
+
+node37.html
+file
+
+
+
+add
+
+node29.html
+file
+
+
+
+add
+
+node65.html
+file
+
+
+
+add
+
+node57.html
+file
+
+
+
+add
+
+node49.html
+file
+
+
+
+add
+
+node69.html
+file
+
+
+
+add
+
+node1.html
+file
+
+
+
+add
+
+node5.html
+file
+
+
+
+add
+

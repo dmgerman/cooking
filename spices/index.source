@@ -1,0 +1,39 @@
+<html> <head>
+<title>Frequently Asked Questions about Spices</title>
+</head>
+
+<body>
+
+
+<h1>Frequently Asked Questions about Spices</h1>
+
+There are two versions of the FAQ, each optimized for different
+types of WWW browsers.
+
+
+<ul>
+  <li><b><a href="spices.html">Graphic Browsers</a></b>. Each page
+       contains a section, and chemical
+       equations are displayed as inline pictures.
+  <li><b><a href="spices-text.html">Text Browsers</a></b>.
+       The whole text is available in a single page, the pictures are
+       still inline, but the equations are approximated using ASCII
+       text. Specially useful if you have a slow link.
+</ul>
+
+<hr>
+
+Unless otherwise specified, these pages, and the information they
+contain are Copyright &#169; 1995, Daniel M. Germ&aacute;n<P>
+
+This FAQ is Copyright (C) 1993, 1994, 1995 by Daniel M. Germ&aacute;n. This
+text, in whole or in part, may not be sold in any medium, including,
+but not limited to electronic, CD-ROM, or published in print,
+without the explicit, written permission of Daniel M. Germ&aacute;n.
+
+<hr><A HREF="/~dmg/index.html">Go to my home page</a><br>
+<a href="mailto:dmg@csg.uwaterloo.ca">Do you want to drop me a line?</a><hr>
+<!-- hhmts start -->
+<i>Last modified:</i> Sun Dec 10 22:39:05 1995
+<!-- hhmts end -->
+</body> </html>

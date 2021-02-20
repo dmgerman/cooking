@@ -1,0 +1,268 @@
+8
+
+dir
+0
+svn+ssh://svn.dmg/Users/dmg/svn/conf/trunk/cooking/recetas
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+recetas.bib
+file
+
+
+
+add
+
+.ORIG_MAP.pag
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+recetas.aux
+file
+
+
+
+add
+
+recetas.bbl
+file
+
+
+
+add
+
+.ID_MAP.dir
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+recetas.tex
+file
+
+
+
+add
+
+latex2html-init
+file
+
+
+
+add
+
+recetas
+dir
+
+
+
+add
+
+chiles.log
+file
+
+
+
+add
+
+.ORIG_MAP.dir
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+latex2html.config
+file
+
+
+
+add
+
+recetas.blg
+file
+
+
+
+add
+
+TAGS
+file
+
+
+
+add
+
+recipes.todo
+file
+
+
+
+add
+
+postres.tex
+file
+
+
+
+add
+
+familia.tex
+file
+
+
+
+add
+
+.IMG_PARAMS.pag
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+TODO
+file
+
+
+
+add
+
+chiles.tex
+file
+
+
+
+add
+
+recetas.log
+file
+
+
+
+add
+
+pastor.tex
+file
+
+
+
+add
+
+recetas.dvi
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+antojos.aux
+file
+
+
+
+add
+
+texput.log
+file
+
+
+
+add
+
+.IMG_PARAMS.dir
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+salvador
+dir
+
+
+
+add
+
+antojos.tex
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.ID_MAP.pag
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

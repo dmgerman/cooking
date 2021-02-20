@@ -1,0 +1,699 @@
+BABYL OPTIONS:
+Version: 5
+Labels:
+Note:   This is the header of an rmail file.
+Note:   If you are seeing it in rmail,
+Note:    it means the file has no messages in it.
+
+1,,
+Summary-line: 14-Feb             tittle@mit.edu  #Re: Flavouring the World, the FAQ about SPICES Ver. 1.0 
+Received: from csg.uwaterloo.ca by csgrs6k1.uwaterloo.ca (AIX 3.2/UCB 5.64/4.03UW)
+          id AA31392; Wed, 14 Feb 1996 00:44:44 -0500
+Received: from bloom-picayune.MIT.EDU ([18.181.0.24]) by csg.uwaterloo.ca with SMTP id <52346>; Wed, 14 Feb 1996 00:48:52 -0500
+Received: (from tittle@localhost) by bloom-picayune.MIT.EDU (8.6.12/2.3JIK) id AAA10268; Wed, 14 Feb 1996 00:44:28 -0500
+Message-Id: <199602140544.AAA10268@bloom-picayune.MIT.EDU>
+To: dmg@csg.uwaterloo.ca (Daniel M. German)
+Organization: *.answers moderation team
+From: Cindy Tittle Moore <tittle@mit.edu>
+Reply-To: news-answers-request@mit.edu
+Subject: Re: Flavouring the World, the FAQ about SPICES Ver. 1.0 
+In-Reply-To: Your message of Sat, 23 Dec 1995 02:24:47 +0000.
+             <spices_819685503@csg.uwaterloo.ca> 
+Date: Wed, 14 Feb 1996 00:44:23 -0500
+Sender: tittle@ATHENA.MIT.EDU
+Status: RO
+
+*** EOOH ***
+To: dmg@csg.uwaterloo.ca (Daniel M. German)
+Organization: *.answers moderation team
+From: Cindy Tittle Moore <tittle@mit.edu>
+Reply-To: news-answers-request@mit.edu
+Subject: Re: Flavouring the World, the FAQ about SPICES Ver. 1.0 
+In-Reply-To: Your message of Sat, 23 Dec 1995 02:24:47 +0000.
+             <spices_819685503@csg.uwaterloo.ca> 
+Date: Wed, 14 Feb 1996 00:44:23 -0500
+Sender: tittle@ATHENA.MIT.EDU
+
+
+Approval Instructions
+~~~~~~~~~~~~~~~~~~~~~
+  You have our approval for this posting (or set of postings) and may
+start posting when you wish. You must add the following line to the
+MAIN HEADER of your postings so that they actually get posted rather
+than mailed again to the *.answers moderators:
+
+	Approved: news-answers-request@MIT.EDU
+
+  Be sure to familiarize yourself with what kinds of changes will
+require you to resubmit your posting(s) for reapproval (they are
+listed in the submission guidelines document).  If you have further
+questions about this, please cc me at tittle@mit.edu to stay out
+of the queue.
+
+  Again, thank you for submitting your posting(s) to *.answers.
+
+--Cindy Tittle Moore
+*.answers moderation team
+
+
+--Original Message [begin reference inclusion]
+
+>From news@undergrad.math.uwaterloo.ca	 Fri Dec 22 21: 26:33 1995
+Newsgroups:  rec.food.cooking,rec.food.veg,rec.food.preserving,rec.answers,news
+.answers
+From:  dmg@csg.uwaterloo.ca (Daniel M. German)
+Subject:  Flavouring the World, the FAQ about SPICES Ver. 1.0
+Summary:  This posting answers commonly asked questions about Spices: 
+	 	their nature, use, and storage.
+Originator:  dmg@csg.uwaterloo.ca
+Sender:  news@undergrad.math.uwaterloo.ca (news spool owner)
+Message-Id:  <spices_819685503@csg.uwaterloo.ca>
+Date:  Sat, 23 Dec 1995 02:24:47 GMT
+Nntp-Posting-Host:  csg.uwaterloo.ca
+Organization:  University of Waterloo
+Followup-To:  rec.food.cooking,rec.food.veg,rec.food.preserving
+Apparently-To:  rec-answers@math.uwaterloo.ca
+
+Archive-name: food/spices
+Posting-Frequency: monthly
+Version: 1.0
+URL: http://csgwww.uwaterloo.ca/~dmg/faqs/spices/index.html
+Last-modified: Dec. 16, 1995
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+
+
+                  FLAVOURING THE WORLD. THE FAQ ABOUT SPICES
+
+   Daniel M. German
+   Dept. of Computer Science
+   University of Waterloo
+   Waterloo Ont. N2L 3G1
+   dmg@csg.uwaterloo.ca
+   http://csgwww.uwaterloo.ca/~dmg/
+
+   Frequently Ask Questions about Spices Ver. 1.0 (Dec. 16, 1995) 
+
+   Changes since last version 
+
+Contents
+
+     * 1 Introduction 
+     * 2 Spices 
+          + 2.1 What are spices 
+          + 2.2 Why are spices so tasty? 
+          + 2.3 What are some uses of spices (excluding the kitchen) 
+     * 3 Pepper 
+          + 3.1 What is black pepper? 
+          + 3.2 Where is pepper native from? 
+          + 3.3 Where the name pepper comes from 
+          + 3.4 What is green pepper? 
+          + 3.5 What is white pepper? 
+          + 3.6 Are there any differences between white and black pepper?
+          + 3.7 Storage 
+     * 4 Cinnamon 
+          + 4.1 Where does Cinnamon come from? 
+     * 5 Vanilla 
+          + 5.1 Where does Vanilla come from? 
+          + 5.2 What is Vanillin? 
+          + 5.3 Products 
+               o 5.3.1 What is Vanilla Extract? 
+               o 5.3.2 How do I differentiate between real and unreal
+                 vanilla extract? 
+               o 5.3.3 What is vanilla flavouring? 
+               o 5.3.4 What is vanilla tincture? 
+               o 5.3.5 What is concentrated vanilla extract and
+                 concentrated vanilla flavouring? 
+               o 5.3.6 What is Vanilla Oleoresin? 
+               o 5.3.7 What is Vanilla Powder? 
+               o 5.3.8 What is Vanilla-Vanillin Extract Flavouring and
+                 Powder? 
+               o 5.3.9 What is Perfumery Vanilla Tincture? 
+               o 5.3.10 What is Vanilla Absolute? 
+          + 5.4 Major types of Vanilla 
+               o 5.4.1 What are vanilla splits? 
+               o 5.4.2 What are vanilla cuts? 
+               o 5.4.3 What is Mexican Vanilla? 
+               o 5.4.4 What is Bourbon vanilla? 
+               o 5.4.5 What is Indonesian vanilla? 
+               o 5.4.6 What is South American or West Indian Vanilla? 
+               o 5.4.7 What is Tahiti vanilla? 
+               o 5.4.8 What is Vanillons (Guadeloupe vanilla or Antilles
+                 vanilla)? 
+          + 5.5 For the do-it-yourselfer 
+               o 5.5.1 How do I prepare Vanilla Extract? 
+               o 5.5.2 How do I prepare vanilla sugar? 
+               o 5.5.3 How do I store my cured vanilla beans? 
+               o 5.5.4 How do I use vanilla in my kitchen? 
+          + 5.6 Further information 
+     * 6 Saffron 
+          + 6.1 What is saffron? 
+          + 6.2 Why is saffron so expensive? 
+          + 6.3 Why should I not use wooden utensils to work with
+            saffron? 
+          + 6.4 What is Mexican saffron? 
+          + 6.5 How do I store saffron? 
+          + 6.6 Where is saffron native from? 
+          + 6.7 Further information 
+     * 7 What is coriander/cilantro/Chinese parsley? 
+          + 7.1 How do I store cilantro? 
+     * 8 Other Spices 
+          + 8.1 Is there any substitute to coconut milk? 
+     * 9 Storing Spices 
+          + 9.1 Bay leaves 
+          + 9.2 Ground spices 
+     * 10 Others 
+          + 10.1 Disclaimer 
+          + 10.2 List of Contributors 
+     * References 
+
+1 INTRODUCTION
+
+   This FAQ describes basic facts about spices: their nature, storage,
+   and use. 
+
+   This FAQ is posted montly to the following newsgroups:
+   rec.food.cooking, rec.food.veg, rec.food.preserving, rec.answers, and
+   news.answers. 
+
+   This FAQ is (C) Copyright 1995 Daniel M. German. This text, in whole
+   or in part, may not be sold in any medium, including, but not limited
+   to electronic, CD-ROM, or published in print, without the explicit,
+   written permission of Daniel M. German. This FAQ can be reproduced and
+   distributed electronically or in hardcopy as long as this is done for
+   free and it is kept intact. 
+
+   If you have any comments about this document, please direct them to
+   dmg@csg.uwaterloo.ca. 
+
+   The hypertext version of this FAQ is available at: 
+
+     http://csgwww.uwaterloo.ca/~dmg/faqs/spices/
+      
+
+2 SPICES
+
+2.1 What are spices
+
+   Spices are the various strongly flavoured or aromatic substances of
+   vegetable origin, commonly used as condiments or employed for other
+   purposes on account of their fragance and preservation qualities [1]. 
+
+2.2 Why are spices so tasty?
+
+   Spices have two main components [2]: 
+
+     * Volatile oils. Also known as essential oils, they are responsible
+       for the characteristic aroma of spices. 
+     * Oleoresins, or non volatile extracts, which are responsible for
+       the typical taste and flavour. 
+
+2.3 What are some uses of spices (excluding the kitchen)
+
+   Some examples on the use of spices: 
+
+     * Antioxygenic properties. Some spices retard the oxydation of fat. 
+     * Preserving action. Some spices contain essential oils that are
+       toxic to microorganisms [2]: 
+          + Cloves contain plenty of essential oil (15 to 20%); its main
+            component --eugenol, 80 to 92%-- inhibits the growth of
+            microorganisms. 
+          + At normal growth temperatures, the mustard's essential oil is
+            toxic to microorganism. 
+     * Antimicrobial activity. Black pepper, garlic, cinnamon, nutmeg,
+       cloves, ginger, cumin, and caraway amongst others, are used in
+       India for correcting and a variety of intestinal disorders [2]. 
+       In a study, Subrahmanyan, et.al [3] reported the susceptibilities
+       of E. coli to garlic: at a concentration of 20 mg/ml of garlic,
+       the number of organisms per ml. were 17, 22, and 300 after 0, 6,
+       and 24 hrs. respectively; for the same periods, at a concentration
+       of 0 mg/ml, the results were: 17, 3600, and 16800. 
+     * Perfumery and cosmetics. 
+          + Oils from cardamon, cumin, celery, chive, juniper, and nutmeg
+            are used in different types of perfume [2]. 
+          + The oil of cinnamon, dill seed, fennel seed, and nutmeg are
+            used in scenting soaps, dental preparations, hair lotions,
+            and others [2]. 
+
+3 PEPPER
+
+3.1 What is black pepper?
+
+   Black pepper is the whole dried immature fruit of the Piper nigrum. 
+
+3.2 Where is pepper native from?
+
+   It is native of the Western Ghats in India, where it is still
+   restricted as a wild plant. Nowadays, it can also be found growing
+   wild in north Burma and the hills of Assam. 
+
+3.3 Where the name pepper comes from
+
+   It is believed that the name comes from the Sanskrit pippali, which
+   was the name of the long pepper, P. longum, which is now never seen in
+   Europe. 
+
+3.4 What is green pepper?
+
+   It is unripe, but fully developed, pepper which is artificially dried
+   or preserved in ``wet'' form, e.g. brine, vinegar, citric acid. 
+
+3.5 What is white pepper?
+
+   According to Pruthi [2], there are several methods to prepare it: 
+
+    1. Water steeping and rotting technique 
+          + From ripening fresh berries. It is the oldest method. Fresh
+            berries are harvested when one or two berries start turning
+            yellow or red. There are submerged for several days, at the
+            eleventh the skin is removed by hand or mechanical methods.
+            The berries --without skin-- are washed and immerse in a
+            bleaching solution. After 2 days, then they are washed and
+            dried. 
+          + From dried berries. Pepper berries are dried for 7 to 10
+            days, then submerged for one or two weeks. Again they are
+            washed, bleached, washed and dried. 
+    2. Steaming. Ripening green berries are steamed for 10 to 15 minutes,
+       then a machine removes the skin. Also, the berries are treated
+       with a bleaching solution, then washed and dried. 
+    3. Decortication technique (also known as decorticated pepper) .
+       Created by decortication machines that remove the skin of the
+       dried black peppercorns. 
+
+3.6 Are there any differences between white and black pepper?
+
+   The only significant difference between white and black pepper is in
+   starch and fiber content. The belief that white pepper is milder in
+   flavour than black pepper does not seem to be confirmed by the
+   scientific data [2]. However, there are some differences in pungency
+   --of black and white pepper-- due to geographical origin. 
+
+3.7 Storage
+
+   Pepper can be washed and re-dried before grinding. Store away from
+   sunlight at moderate temperatures and low humidity. Only grinded
+   pepper needs to be stored in sealed containers. 
+
+   Pepper loses more volatile oils the finer it is grinded. 
+
+4 CINNAMON
+
+   Dried bark of Cinnamomum verum (syn. C. zeylanicm). 
+
+4.1 Where does Cinnamon come from?
+
+   It is indigenous in Sri Lanka, which still produces the largest
+   quantity and best quality. Seychelles is the second largest producer. 
+
+5 VANILLA
+
+   Vanilla is the fully grown fruit of the orchid Vanilla fragrans
+   harvested before it is fully ripe; then it is fermented and cured. The
+   fruits are usually referred to as vanilla beans [4]. Vanilla
+   production is regulated by ISO standard 5565. 
+
+5.1 Where does Vanilla come from?
+
+   Vanilla is native to Mexico, Guatemala and other parts of Central
+   America. At the present time, it grows also in Madagascar, the
+   Seychelles, Tahiti, Riunion and other tropical areas[5]. The first
+   recorded use of the spice in European literature dates back to 1520,
+   when Moctezuma II offered vanilla flavoured chocolate to Hernan
+   Cortis. However, the use of tlilxochitl (Nahuatl for vanilla) is
+   earlier documented in the precolumbian literature. 
+
+5.2 What is Vanillin?
+
+   Vanillin is a crystalline phenolic aldehyde C_8H_8O_3 that is the
+   chief fragrant component of vanilla and is used especially in
+   flavouring and in perfumery [6]. 
+
+   Vanillin can now be produced synthetically, and it is much cheaper
+   than natural vanilla. 
+
+5.3 Products
+
+  5.3.1 WHAT IS VANILLA EXTRACT?
+
+     Vanilla extract is obtained by macerating the cured beans in a
+   solution of water and alcohol. It might contain sugar or glycerine as
+   sweeteners or thickeners [4]. 
+
+   Conventional vanilla extracts have a minimum ethanol content of 35%,
+   and contain the soluble extractives from 1 part by weight of vanilla
+   beans in 10 parts by volume of hydroalcoholic solution. [4]. 
+
+  5.3.2 HOW DO I DIFFERENTIATE BETWEEN REAL AND UNREAL VANILLA EXTRACT?
+
+   ``The two best indicators of pure vanilla extract are alcohol content
+   and price. The alcohol content must be at least 35%; synthetics
+   usually have no alcohol or at most, about 2%. Any purchases that cost
+   less than US$25.00 a quart are most likely synthetic.''[7] 
+
+  5.3.3 WHAT IS VANILLA FLAVOURING?
+
+     It is similar to vanilla extract (see 5.3.1) but contains less than
+   35% of ethanol per volume. 
+
+  5.3.4 WHAT IS VANILLA TINCTURE?
+
+   It is used exclusively in pharmaceutical applications. It is prepared
+   by maceration from 1 part of vanilla beans by weight to 10 parts of
+   hydroalcoholic solution and contains added sugar. It differs from
+   vanilla extract (see 5.3.1) by having at least a 38% ethanol content. 
+
+  5.3.5 WHAT IS CONCENTRATED VANILLA EXTRACT AND CONCENTRATED VANILLA
+  FLAVOURING?
+
+   They are prepared by removing the solvent from their regular
+   counterparts (see 5.3.1, 5.3.3). 
+
+  5.3.6 WHAT IS VANILLA OLEORESIN?
+
+   It is a semi-solid concentrate obtained by removing the solvent from
+   the vanilla extract. A solution of isopropanol is frequently used
+   instead of ethanol for the maceration. Vanilla oleoresin has lost part
+   of its aroma --hence its flavour-- during the removal of the solvent. 
+
+  5.3.7 WHAT IS VANILLA POWDER?
+
+     Powdered vanilla beans. It might be pure, but normally it is
+   adulterated with vanilla oleoresin, sugar, food starch, or gum acacia.
+
+  5.3.8 WHAT IS VANILLA-VANILLIN EXTRACT FLAVOURING AND POWDER?
+
+   A combination of synthetic vanillin and vanilla oleoresin to create
+   extract and flavouring (see 5.3.1, 5.3.3, 5.3.7). 
+
+  5.3.9 WHAT IS PERFUMERY VANILLA TINCTURE?
+
+   Similar to vanilla extract (see 5.3.1) but prepared with perfumery
+   alcohol, with near 90% ethanol content. It is not intended for
+   consumption. 
+
+  5.3.10 WHAT IS VANILLA ABSOLUTE?
+
+   It is the most concentrated form of vanilla. ``It is 7-13 times
+   stronger than good-quality vanilla beans but it has less well-rounded
+   character'' [4]. 
+
+5.4 Major types of Vanilla
+
+  5.4.1 WHAT ARE VANILLA SPLITS?
+
+   Whole bean that burst open during fermentation, and are frosted with
+   vanillin crystals [8]. 
+
+  5.4.2 WHAT ARE VANILLA CUTS?
+
+   Beans that have been cut into pieces to accelerate the curing process.
+   This category might include small beans. 
+
+  5.4.3 WHAT IS MEXICAN VANILLA?
+
+   It is supplied in 5 grades (or 7 if intermediate grades are included)
+   of whole beans and in the form of cuts. The top grades of Mexican
+   beans are rarely ``frosted'' with a surface coating of naturally
+   exuded vanillin.[4] 
+
+  5.4.4 WHAT IS BOURBON VANILLA?
+
+   ``It has a deeper `body' flavour than Mexican vanilla, but less fine
+   aroma'' [4]. It is produced in Madagascar, the Comoro Islands and
+   Riunion. 
+
+  5.4.5 WHAT IS INDONESIAN VANILLA?
+
+   The main source of Indonesian vanilla is Java. ``Java vanilla
+   possesses a deep, full-bodied flavour and is frequently used for
+   blending with synthetic vanillin'' [4] 
+
+  5.4.6 WHAT IS SOUTH AMERICAN OR WEST INDIAN VANILLA?
+
+   More similar in properties to Bourbon than to Mexican vanilla. 
+
+  5.4.7 WHAT IS TAHITI VANILLA?
+
+   It is obtained from V. tahitensis and ``possesses a characteristic
+   aromatic odour and usually has a lower vanillin content than true
+   vanilla.'' [4]. It generally has less flavour than true vanilla. 
+
+  5.4.8 WHAT IS VANILLONS (GUADELOUPE VANILLA OR ANTILLES VANILLA)?
+
+   It is obtained from V. pompona. ``Vanillons has a low vanillin content
+   and possesses a characteristic floral aroma, bearing similarities to
+   Tahiti vanilla'' [4]. It has a poor flavour and it is normally used in
+   perfumery. 
+
+5.5 For the do-it-yourselfer
+
+  5.5.1 HOW DO I PREPARE VANILLA EXTRACT?
+
+   Juan San Mames shared the following recipe [9]: 
+
+     Use one vanilla bean for every 120 ml. of any clear liquor (vodka
+     preferably). With a knife, split the bean open (always put your
+     finger behind the knife). If the bean is hard, just break it into
+     pieces. Then put the bean in the liquor. 
+
+     Close the bottle and leave it for about two weeks or until the
+     vanilla bean aroma begins to come through. 
+
+     When you use the extract, if you don't want the vanilla seeds to
+     show with the ingredients, use a coffee filter. You can return the
+     seeds to the bottle. If you make ice cream, you may want to show
+     the seeds in the finished ice cream. 
+
+   Bruce Steinberg added [10]: 
+
+     You can shake the bottle several times a week to accelerate the
+     extraction. Brandy may also be used for interesting variations. 
+
+   According to US regulations, 1 l. of vanilla extract must contain a
+   minimum of 100 gr. of vanilla beans (I reckon that each regular size
+   complete bean must weight between 3 and 5 gr.) of no more or 25%
+   moisture content. Commercial extracts also include sugar and
+   glycerine, to help to ``fix'' the aroma [4]. 
+
+  5.5.2 HOW DO I PREPARE VANILLA SUGAR?
+
+   Store 1 or 2 vanilla beans on an air-tight jar of granulated sugar.
+   Allow one month for the flavour to permeate. If the beans are always
+   topped with sugar, the beans last for years. Use this sugar in sweet
+   dishes.[5] 
+
+   Storage temperature can be raised to 15-21 ^OC without detriment to
+   the flavour quality of the beans.[4] 
+
+  5.5.3 HOW DO I STORE MY CURED VANILLA BEANS?
+
+   Vanilla beans should be stored in open containers at a temperature of
+   about 10 C at a low humidity [11] 
+
+  5.5.4 HOW DO I USE VANILLA IN MY KITCHEN?
+
+   Use vanilla sugar to give a nice flavour to your drinks. It also
+   enhances the flavour of chocolate [5]. 
+
+   Almost any sweet dish will improve its flavour with a touch of vanilla
+   extract. 
+
+5.6 Further information
+
+   An excellent treatment of the topic can be found at [4]. 
+
+   The Vanilla Information Hotline is available at 408/457-0902 (or fax
+   at 408/457-2521) for any vanilla questions, to request a basic vanilla
+   FAQ (by fax or snail mail), or to get further info on ordering
+   Tahitian and Bourbon beans, extracts, or "The Vanilla Cookbook"
+   itself. 
+
+6 SAFFRON
+
+6.1 What is saffron?
+
+   Saffron is the dried stigmas of the crocus sativus. It is of orange
+   color and has a strong perfume and a bitter taste. Saffron production
+   is regulated by ISO with standard 3632. 
+
+6.2 Why is saffron so expensive?
+
+   Every plant has on average 3 flowers; each flower only 3 stigmas. It
+   takes between 200,000 and 300,000 stigmas to make 1 kg. of saffron
+   [5]. Pure saffron, however, has a strong flavour and a pinch is
+   sufficient for most dishes. 
+
+   Avoid buying powered saffron, it might be adulterated. 
+
+6.3 Why should I not use wooden utensils to work with saffron?
+
+   Wood has an absorbing property. Since saffron is expensive you don't
+   want to waste it. 
+
+6.4 What is Mexican saffron?
+
+   Mexican saffron is the flower of Carthamus tinctorius L. which is an
+   annual herb grown in the temperate regions of Central Mixico. Its
+   quality is quite inferior to real saffron but it has similar coloring
+   properties. It is far cheaper. 
+
+6.5 How do I store saffron?
+
+   Saffron is sensitive to light and moisture. Keep it in a dark
+   container away from sunlight. 
+
+6.6 Where is saffron native from?
+
+   It is believed that it is native of both Greece, and Asia Minor. 
+
+6.7 Further information
+
+   Vanilla, Saffron Imports prints a pamphlet called Cooking and & with
+   Saffron, they also have a WWW page ( http://www.saffron.com/
+    ) with some facts about saffron, including a
+   photospectrometry report. They can be reached at ``Vanilla Saffron
+   Imports, 949 Valencia Street, San Francisco, CA 94110''. 
+
+7 WHAT IS CORIANDER/CILANTRO/CHINESE PARSLEY?
+
+   Coriander is the common name for coriandrum sativum (fam.
+   umbelliferae). It is an annual plant similar to parsley. It has erect,
+   furrowed solid, branched stems. The alternate bright green leaves are
+   pinnate or bipinnate, the lower ones are broader leaflets than the
+   upper ones, which are finely divided. Coriander seeds are cream to
+   brown spheres of 1-1.5 mm. in diameter. In the culinary argot, it is
+   common to refer to the plant as cilantro and to the seeds as
+   coriander. 
+
+7.1 How do I store cilantro?
+
+   Different people have suggested different methods. Here is a list of
+   the most common ones. 
+
+     * ``bouquet'' in the fridge. Cover loosely with plastic. 
+     * ``bouquet'' in the window. 
+     * ``airtight container'' in the fridge. 
+     * ``wrapping'' in damp towels, inside a plastic bag. 
+
+   Sophie Laplante (sophie@cs.uchicago.edu) performed some experiments on
+   these different methods for storing cilantro. She found that the
+   airtight container seemed to keep it edible[sic] for the longest time
+   (3 weeks). 
+
+8 OTHER SPICES
+
+8.1 Is there any substitute to coconut milk?
+
+   You can probably find coconut milk in an Asian store, either in liquid
+   or powdered form. If you have no other choice, you can follow this
+   recipe [12]: 
+
+     * Take a handful of shredded coconut and pack it in the bottom of a
+       bowl. 
+     * Pour boiling (and I mean a really boiling) water just to cover
+       the packed coconut and let stand until the water is cool. 
+     * Strain the coconut shreds and press them in the bottom of the
+       strainer get as much liquid as possible. 
+
+     The liquid is very close to coconut milk and will impart the flavor
+     very well. 
+
+9 STORING SPICES
+
+9.1 Bay leaves
+
+   Bay leaves lose approximately 30% of their volatile oil and 40-60% of
+   their chlorophyll during one year of storage. A good way to evaluate
+   the quality of the leaf is to determine how bright its color is. 
+
+9.2 Ground spices
+
+   Ground spices, whith greater surface exposed, tend to lose their
+   volatile oils. They also deteriorate faster than whole spices. 
+
+   The needs for packaging vary from spice to spice. In general, follow
+   the next guidelines: 
+
+     * Use dark, air tight containers. 
+     * Fill the container as much as you can. 
+     * Avoid buying ground spices. Grind them yourself using a mortar. 
+
+10 OTHERS
+
+10.1 Disclaimer
+
+   This FAQ is provided as is without any express or implied warranties.
+   While every effort has been taken to ensure the accuracy of the
+   information contained in this article, the maintainer assumes no
+   responsibility for errors or omissions, or for damages resulting from
+   the use of the information contained herein. 
+
+10.2 List of Contributors
+
+     * Hall, Andrew S. <ashall@magnus.acs.ohio-state.edu>, for his recipe
+       to prepare coconut milk. 
+     * Laplante, Sophie <sophie@cs.uchicago.edu>, for her research on
+       cilantro storage. 
+     * Pforzheimer, Andy <apforz@pfood.win.net>, for his corrections
+       regarding vanilla extract and vanilla splits. 
+     * San Mames, Juan <VMPK89A@prodigy.com>, for sharing his knowledge
+       regarding vanilla. 
+     * Stafford, Maureen <stafford@csg.uwaterloo.ca>, for proofreading
+       the first draft (version 0.1) of this document. 
+     * Steinberg, Bruce <bruces.com>, for his comments on how to prepare
+       vanilla extract. 
+
+References
+
+   1 Oxford English Dictionary. Oxford University Press, 2nd ed.,
+          1989. 
+
+   2 J. S. Pruthi, Spices and Condimentes. Chemistry, microbiology,
+          technology. Academic Press, 1980. 
+
+   3 V. Subrahmanyan, K. Krishnamurthy, and M. Swaminathan, ``The
+          effect of garlic in certain intestinal bacteria,'' Food Sci.,
+          vol. 7, no. 223, 1958. as cited in [2]. 
+
+   4 J. Purseglove, E. Brown, C. Green, and S. Robbins, Spices,
+          Volume 2. Longman, 1981. 
+
+   5 J. Mulherin, Spices & Natural Flavourings. Tiger, 1988. 
+
+   6 Webster Dictionary. Webster, 1994. 
+
+   7 P. Rain, The Vanilla Cookbook. 
+
+   8 Pforzheimer, Andy <apforz@pfood.win.net>, ``Personal
+          communication,'' Nov. 1995. 
+
+   9 San Mames, J. <VMPK89A@prodigy.com>, ``USENET Article.'' in
+          rec.food.cooking, Feb. 1995. 
+
+   10 Steinberg, Bruce <bruces@sco.com>, ``USENET Article.'' in
+          rec.food.cooking, Feb. 1995. 
+
+   11 J. Merory, ``40 % more flavour in improved vanilla process,''
+          Food End., May 1956. 
+
+   12 Hall, Andrew S. <ashall@magnus.acs.ohiostate.edu>, ``USENET
+          article.'' in rec.food.cooking, Nov. 1995. 
+
+     _________________________________________________________________ 
+
+    (C) 1995 Daniel M. German 
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.2
+
+iQB1AwUBMNtoAV++7r3Pwdf9AQGNfwL8CfSpqu/apqu2YaECNn6nivrp7a5pIvDU
+an4MZkC8TJewOVpYJBSMLNq9eyAeedUeItTAIoe9ad35900J4B0kvH6vaco14B/W
+vJpx7J3fNO93DJTY1OXCFTlKuZPNJL5Y
+=tbep
+-----END PGP SIGNATURE-----
+
+
+--End of Original Message [end reference inclusion]
+
+

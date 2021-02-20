@@ -1,0 +1,44 @@
+8
+
+dir
+0
+svn+ssh://svn.dmg/Users/dmg/svn/conf/trunk/cooking/spices/old
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+spices.951202.txt.gz
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+spices.951205.txt.gz
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

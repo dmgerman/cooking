@@ -1,0 +1,30 @@
+8
+
+dir
+0
+svn+ssh://svn.dmg/Users/dmg/svn/conf/trunk/cooking/spices/source
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+vainilla
+file
+
+
+
+add
+
+vainilla2
+file
+
+
+
+add
+

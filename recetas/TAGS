@@ -1,0 +1,95 @@
+
+antojos.tex,164
+\subsection{Enchiladas De Aguascalientes}1,1
+\subsection{Guacamole}44,1426
+\subsection{Enchiladas de queso}61,1895
+\subsection{Enchiladas tradicionales}80,2586
+
+chiles.tex,583
+\subsection{ Como Capearlos}75,4282
+\subsubsection{Capeado básico}119,6182
+\subsection{Para quitarles lo picoso}136,6546
+\subsection{Chiles anchos rellenos de queso y frijoles}168,7711
+\subsection{ Chile noreste (Tamaulipas)}205,8835
+\subsection{ Chiles jalapeños rellenos de minilla (Jalapa/Golfo de266,11787
+\subsection{Chiles chipotles rellenos de queso cotija al horno (Estado de Mexico)}320,14125
+\subsection{Chiles Polcos (Zacatecas)}380,16464
+\subsection{ Chile ancho relleno de queso en caldillo de crema y cilantro}435,18822
+\subsection{Chiles en nogada}476,20542
+
+familia.tex,207
+\subsection{Adobo}2,2
+\subsection{Pollo con Apio}22,671
+\subsection{Pastel de Manzana 5 Estrellas}39,1283
+\subsection{Sopa de Papa y tocino al estilo de mi suegra}69,2323
+\subsection{Mole Verde}77,2632
+
+pastor.tex,95
+\subsection{Tacos al Pastor}1,1
+\subsubsection{Receta del Adobo para los Tacos alpastor}5,80
+
+postres.tex,167
+\subsection{Capirotada}1,1
+\subsection{Pastel de Tres Leches}41,1481
+\subsection{Pastel de queso con tunas}91,3004
+\subsection{Crepas de Cajeta flameadas}118,3950
+
+recetas.tex,2592
+\newcommand{\Tecnicas}{Técnicas de la Alta Cocina, de Luisa Calderón, Copyright 1979 \cite{tecnicas}}11,400
+\section{Introducción}30,1003
+\section{Las de mi familia}48,1718
+\section{Las de mis Amigos}52,1764
+\subsection{Chorizo}55,1794
+\section{Sopas}82,2474
+\subsection{Sopa De Lima}84,2493
+\subsection{Crema De Nuez}123,3876
+\subsection{Crema De Jaiba}143,4457
+\subsection{Sopa De Panela}176,5502
+\subsection{Pozole}209,6616
+\section{Antojitos}242,7794
+\section{Los Postres}245,7831
+\section{Chiles Rellenos}249,7871
+\section{Aún por catalogar}253,7914
+\subsection{Carnitas estilo Jalisco}255,7943
+\subsection{Los Hongos Quintanilla}330,10983
+\subsection{Calabacitas Rellenas}357,11839
+\subsection{Pescado En Tikin Xik}383,12715
+\subsection{Pescado Frito Con Salsa Campechana}421,14583
+\subsection{Salsa Campechana}446,15569
+\subsection{Lengua En Escarlata}472,16139
+\subsection{Gallina En Mole De Ciruela}520,17785
+\subsection{Pollo En Escabeche Oriental }549,18716
+\subsubsection{Escabeche Para Pollo Orientla}576,19552
+\subsection{Lomo En Tapado}601,20376
+\subsection{Cochinita Pibil}638,21563
+\subsubsection{Ixni Pec}681,23265
+\subsection{Muk-Bil Pollo}698,23604
+\subsection{Pollo En Cuñete}750,25896
+\subsection{Cuete En Almendrado}792,27282
+\subsection{Lomo De Puerco En Relleno Negro}835,28959
+\subsection{Antiguo Mole Negro Oaxaqueño}872,30626
+\subsection{Pato En Pipían Verde}937,33257
+\subsection{Manchamanteles Tradicional}978,35085
+\subsection{Molito De Olla}1019,36606
+\subsection{Mole De Olla En Verde}1062,38513
+\subsection{"Amarillito"}1089,39411
+\subsection{Birria De Guadalajara}1125,40759
+\subsection{Revoltijo (Romeritos) (Tortitas De Camarón)}1177,42843
+\subsection{Crepas De Huitlacoche A La Alta Cocina Mexjcana Del Club1231,45372
+\subsubsection{ Relleno De Huitiacoche}1265,46647
+\subsection{Buñuelos de extender}1299,47949
+\subsection{Asado de puerco}1330,48891
+\subsection{Romeritos con papitas de Galeana}1356,49947
+\subsection{Pollo en salsa borracha}1384,50942
+\subsection{Ensalada de camarones con vinagreta al tequila}1416,51981
+\subsection{Coctel de frutas al tequila}1438,52689
+\subsection{Morisqueta}1461,53425
+\subsection{Camotes cubiertos}1487,54233
+\subsection{Cocadas}1516,55091
+\subsection{Palanquetas de cacahuate}1539,55873
+\subsection{Barbacoa casera de borrego(cordero)}1557,56491
+\subsection{Pollo en salsa de chile y ajonjolí}1593,57496
+\subsection{Arroz con leche}1655,59384
+\subsection{Agua de Jamaica}1680,60090
+\subsection{Tortillas de Harina}1701,60554
+\section{Glosario}1730,61567

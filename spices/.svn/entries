@@ -1,0 +1,366 @@
+8
+
+dir
+0
+svn+ssh://svn.dmg/Users/dmg/svn/conf/trunk/cooking/spices
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+filtra_html.pl
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+spices.aux
+file
+
+
+
+add
+
+filtra_faq.pl
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+spices.bbl
+file
+
+
+
+add
+
+spices.tex
+file
+
+
+
+add
+
+RCS
+dir
+
+
+
+add
+
+spices.zip
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+spices.blg
+file
+
+
+
+add
+
+spices.txt.pgp
+file
+
+
+
+add
+
+post.sh
+file
+
+
+
+add
+
+new.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+nombres.tex
+file
+
+
+
+add
+
+index.source
+file
+
+
+
+add
+
+spices.dvi
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+spices.config.old
+file
+
+
+
+add
+
+auto
+dir
+
+
+
+add
+
+texput.log
+file
+
+
+
+add
+
+pendulo.doc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Makefile
+file
+
+
+
+add
+
+header.final
+file
+
+
+
+add
+
+a
+file
+
+
+
+add
+
+spices.bib
+file
+
+
+
+add
+
+spices
+dir
+
+
+
+add
+
+header
+file
+
+
+
+add
+
+spices.todo
+file
+
+
+
+add
+
+spices.config
+file
+
+
+
+add
+
+spicestext
+dir
+
+
+
+add
+
+SCCS
+dir
+
+
+
+add
+
+source
+dir
+
+
+
+add
+
+spices.txt
+file
+
+
+
+add
+
+aproval
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+spices.log
+file
+
+
+
+add
+
+spices.posting
+file
+
+
+
+add
+
+convierte.pl
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+spices.txt.asc
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+spices.toc
+file
+
+
+
+add
+
+latex.tex
+file
+
+
+
+add
+
+make-header.pl
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+old
+dir
+
+
+
+add
+
+spices.raw
+file
+
+
+
+add
+
